@@ -44,4 +44,4 @@
 7. 10:00 - Salt pasta water and drop in pasta. Cook ~2 min less than package time.  
 8. 20:00 - Discard onion. Stir in garlic/basil mash. Simmer 3–5 minutes more.  
 9. 23:00 - Transfer pasta directly from pot to sauce with tongs. Stir and toss vigorously to coat. Add pasta water as needed for glossy sauce — ~4–5 minutes.  
-10. 28:00 - Plate by twirling pasta with a ladle into bowl. Top with reserved infused oil, rubbed basil, and muddica atturrata. (see: https://youtu.be/SsUGomHw85o?t=1131)
+10. 28:00 - [Plate by twirling pasta with a ladle into bowl](https://youtu.be/SsUGomHw85o?t=1131). Top with reserved infused oil, rubbed basil, and muddica atturrata.
