@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-**Bronze die-cut spaghetti**
+* Bronze die-cut spaghetti (ideally durum, but semolina is fine)
 
 ### Infusion / Mash
 
