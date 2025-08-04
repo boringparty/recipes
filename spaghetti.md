@@ -21,7 +21,7 @@
 ### Seasoning
 
 * Kosher salt and freshly ground pepper (toast whole pepper before grinding)
-* 1 tbsp fresh basil or parsley (for serving)
+* 1 tbsp fresh basil or parsley (for serving, rubbed)
 
 ### Muddica Atturrata
 
