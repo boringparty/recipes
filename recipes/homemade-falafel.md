@@ -1,23 +1,28 @@
-# Homemade Falafel
+# Homemade Falafel (Makes enough for 3)
 
 ## Ingredients
-- 225 g (about 1 generous cup) dried chickpeas
-- 55 g mixed fresh herbs (cilantro, parsley, and/or mint), leaves picked (about 2 cups)
-- 6 scallions, white and pale green parts only, sliced (about 55 g)
-- 2 medium garlic cloves, minced
-- 1 tsp ground cumin
-- 1/2 tsp ground coriander
-- 2 tsp kosher salt, plus more to season after frying
-- 480–720 ml vegetable oil, for frying (enough for about a 2 cm / 3/4-inch depth)
-- To serve: tahini sauce and/or hummus and/or zhug; optional pita + tomatoes, cucumber, pickles, shredded cabbage
+- 3/8 lb dried chickpeas (about 170g; ~3/4 cup)
+- 1 1/2 oz picked fresh cilantro, parsley, or mint leaves, or preferably a mixture (about 1 1/3 cups; ~40g)
+- 3 scallions, white and pale green parts only, sliced (about 1 1/2 oz; ~40g)
+- 1 medium clove garlic, minced (about 1 teaspoon; ~5ml)
+- 3/4 teaspoon ground cumin
+- 1/4 teaspoon ground coriander seed
+- 1 1/2 teaspoons kosher salt, plus more for seasoning
+- 1 1/2 to 2 1/4 cups vegetable oil, for frying
+- Tahini sauce, hummus, and/or zhug (Yemenite hot sauce) for serving
 
 ## Method
-Before cooking: Soak chickpeas overnight. Rinse chickpeas, cover with plenty of cold water (they should be able to triple in volume), and leave at room temperature 12–18 hours. Drain, rinse, and dry very well (a salad spinner helps).
+Before cooking: Rinse chickpeas and place in a bowl. Cover with cold water (enough for chickpeas to at least triple in volume). Cover and let stand at room temperature overnight.  
 
-00:00 - Combine soaked chickpeas, herbs, scallions, garlic, cumin, coriander, and 2 tsp salt in a food processor. Pulse, scraping down as needed, until very finely minced. Test: a handful squeezed should just barely hold together; if it won’t, pulse a little more.  
-00:05 - Transfer mixture to a bowl, cover, and refrigerate 15 minutes to firm up.  
-00:20 - Shape falafel: scoop heaping tablespoonfuls and gently compress into balls (it won’t roll smoothly like dough; just press into shape). Set on a plate.  
-00:30 - Heat oil in a deep skillet/Dutch oven to about 190°C (375°F), keeping depth around 2 cm / 3/4 inch.  
-00:35 - Fry in batches, lowering balls in one at a time. Maintain oil around 175–190°C (350–375°F). Fry undisturbed until well browned on the first side, then carefully flip and brown the second side; about 4 minutes total.  
-00:40 - Drain on paper towels and season immediately with a little salt. Repeat with remaining batches.  
-00:50 - Serve hot with tahini and/or hummus and/or zhug (or stuff into pita with the optional vegetables and pickles).
+00:00 - Drain and rinse chickpeas, then carefully dry them in a salad spinner.  
+00:05 - In a food processor, combine chickpeas, herbs, scallions, garlic, cumin, coriander, and 1 1/2 teaspoons salt. Pulse until the mixture is very finely minced, scraping down as needed.  
+00:10 - If you squeeze a handful into a ball, it should barely hold together. Pulse a little more if it’s too loose.  
+00:15 - Transfer mixture to a bowl, cover, and refrigerate 15 minutes.  
+00:30 - Shape into balls using a heaping tablespoon per falafel (do not worry if they can’t be “rolled” perfectly). Place on a clean plate.  
+00:35 - Pour enough oil into a deep skillet/Dutch oven to reach about 3/4 inch depth. Heat on high until 375°F (190°C) on an instant-read thermometer.  
+00:40 - Carefully lower falafel into the oil (cook in batches if needed, with space between). Adjust heat to keep oil between 350 and 375°F (175 to 190°C).  
+00:50 - Let cook undisturbed until well browned on bottoms.  
+00:54 - Flip carefully with a fork and cook until browned on the second side, about 4 minutes total.  
+00:58 - Transfer to a paper towel–lined plate and season with a little salt. Repeat with remaining falafel.  
+
+Serve immediately with tahini and/or hummus on the side, or with zhug.
