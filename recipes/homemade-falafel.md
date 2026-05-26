@@ -1,13 +1,5 @@
 # Homemade Falafel
 
-Source: https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe
-Yield: 4 servings
-Total time: 530 minutes
-Cuisine: Middle Eastern
-Category: Lunch,Dinner,Entree,Side Dish,Mains,Sandwiches,Snacks
-
-![Homemade Falafel](https://www.seriouseats.com/thmb/q8HA4zAxLZbCYqKrwBoBrfeRkd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230919-SEA-the-food-lab-vegan-experience-best-homemade-falafel-recipe-hero-05-QiAi-6948b82b923e43b6a9faf9f28de1349f.jpg)
-
 ## Ingredients
 
 - 1/2 pound dried chickpeas (1 generous cup; 225g)
@@ -20,7 +12,7 @@ Category: Lunch,Dinner,Entree,Side Dish,Mains,Sandwiches,Snacks
 - 2 to 3 cups (480 to 720ml) vegetable oil, for frying
 - Tahini sauce, hummus, and/or zhug (Yemenite hot sauce) for serving
 
-## Instructions
+## Method
 
 1. Rinse chickpeas and place in a large bowl. Cover with cold water, adding enough to allow the chickpeas to at least triple in volume. Cover and let stand at room temperature overnight. The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.
 2. Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor. Pulse until chickpeas are very finely minced, stopping the food processor to scrape down the sides as necessary. A handful of the mixture squeezed into a ball should be able to barely hold together. If not, process a little more.
